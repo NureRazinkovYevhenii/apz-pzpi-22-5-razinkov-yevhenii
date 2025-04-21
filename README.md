@@ -1,7 +1,7 @@
-# apz-pzpi-22-5-razinkov-yevhenii
-PZPI-22-5    
-Razinkov Yevhenii  
+# apz-pzpi-22-5-razinkov-yevhenii  
+ПЗПІ-22-5  
+Разіньков Євгеній  
 Патерн проєктування Flyweight  
--    
-Aquarium system    
+Архітектура Інстаграм  
+Програмна система для акваріумних систем   
 ---  
